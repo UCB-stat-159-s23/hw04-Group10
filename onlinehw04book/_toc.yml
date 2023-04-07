@@ -1,0 +1,7 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: WORKING_LOSC_Event_tutorial-Copy1.ipynb
