@@ -4,4 +4,4 @@
 format: jb-book
 root: intro
 chapters:
-- file: WORKING_LOSC_Event_tutorial-Copy1.ipynb
+- file: WORKING_LOSC_Event_tutorial.ipynb
