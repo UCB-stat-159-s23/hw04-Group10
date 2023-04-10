@@ -2,7 +2,4 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: WORKING_LOSC_Event_tutorial.ipynb
-- file: notebooks.ipynb
+root: WORKING_LOSC_Event_tutorial.ipynb
