@@ -2,4 +2,4 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: WORKING_LOSC_Event_tutorial
+root: LOSC_Event_tutorial
