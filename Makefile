@@ -14,6 +14,6 @@ html :
 	jupyterbook build .
     
 clean : 
-	rm -rf figures
-	rm -rf audio 
-	rm -rf _build 
+	rm -rf figures/*
+	rm -rf audio/*
+	rm -rf _build/*
